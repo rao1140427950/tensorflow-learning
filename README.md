@@ -1,4 +1,4 @@
-# tensorflow-learning
+# Photo Style Transfer<br/>
 ### Model used for photo style tansfer.(VGG19 is used.)<br/>
 ### The results can be seen like this:<br/>
 #### Example 1: 
