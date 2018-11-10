@@ -11,3 +11,8 @@
 ![Image text](https://raw.githubusercontent.com/rao1140427950/tensorflow-learning/photo-style-transfer/PhotoStyleTransfer/PhotoStyleTransfer/Photo%20Style%20Transfer/Style/paint1.jpg)
 ![Image text](https://raw.githubusercontent.com/rao1140427950/tensorflow-learning/photo-style-transfer/PhotoStyleTransfer/PhotoStyleTransfer/Photo%20Style%20Transfer/Result/Tower_paint1_step4000.jpg)
 <br/>
+#### Example 3:
+![Image text](https://raw.githubusercontent.com/rao1140427950/tensorflow-learning/photo-style-transfer/PhotoStyleTransfer/PhotoStyleTransfer/Photo%20Style%20Transfer/Content/tower.jpg)
+![Image text](https://raw.githubusercontent.com/rao1140427950/tensorflow-learning/photo-style-transfer/PhotoStyleTransfer/PhotoStyleTransfer/Photo%20Style%20Transfer/Style/stars.jpg)
+![Image text](https://raw.githubusercontent.com/rao1140427950/tensorflow-learning/photo-style-transfer/PhotoStyleTransfer/PhotoStyleTransfer/Photo%20Style%20Transfer/Result/Tower_stars_step1500.jpg)
+<br/>
